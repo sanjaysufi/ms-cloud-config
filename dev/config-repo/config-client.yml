@@ -1,2 +1,6 @@
+service:
+  name: Client Dev Service
+server:
+  port: 8200
 example:
   message: This is a dev properties
