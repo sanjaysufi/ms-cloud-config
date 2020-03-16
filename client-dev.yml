@@ -1,4 +1,0 @@
-service:
-  name: Client Dev Service
-server:
-  port: 8200
