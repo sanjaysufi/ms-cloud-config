@@ -1,6 +1,0 @@
-service:
-  name: Client Qa Service
-server:
-  port: 8200
-example:
-  message: This is a qa properties
